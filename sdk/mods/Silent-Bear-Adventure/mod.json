@@ -9,6 +9,6 @@
     { "id": "greet", "type": "bool", "name": "Приветствие в лог", "default": true }
   ],
   "hud": [
-    { "label": "+", "setting": "speed", "action": "step", "step": 0.5, "pos": "right" }
+    { "label": "+", "setting": "greet", "action": "toggle", "pos": "right" }
   ]
 }
