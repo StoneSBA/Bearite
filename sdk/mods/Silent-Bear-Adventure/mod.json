@@ -4,7 +4,6 @@
   "version": "1.0",
   "author": "StoneSBA",
   "description": "Усложнённая версия сба. Удачи!",
-  "libs": ["libs/arm64-v8a/libmymod.so"],
   "settings": [
     { "id": "greet", "type": "bool", "name": "Приветствие в лог", "default": true }
   ],
