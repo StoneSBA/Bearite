@@ -67,7 +67,7 @@ int show_greeting = api->get_bool(mod_id, "greet", 1);
 if (show_greeting) {
 api->log(mod_id, "=========================================");
 api->log(mod_id, "     SILENT BEAR ADVENTURE: HARDCORE     ");
-api->log(mod_id, "   Мод активирован! Удачи, StoneSBA!   ");
+api->log(mod_id, "   Мод активирован! Удачи!               ");
 api->log(mod_id, "=========================================");
 }
 
