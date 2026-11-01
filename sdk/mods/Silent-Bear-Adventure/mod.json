@@ -6,8 +6,5 @@
   "description": "Усложнённая версия сба. Удачи!",
   "settings": [
     { "id": "greet", "type": "bool", "name": "Приветствие в лог", "default": true }
-  ],
-  "hud": [
-    { "label": "+", "setting": "greet", "action": "toggle", "pos": "right" }
   ]
 }
