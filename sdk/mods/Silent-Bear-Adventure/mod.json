@@ -1,10 +1,8 @@
 {
-  "id": "Silent-Bear-Adventure",
+  "id": "silent-bear-adventure",
   "name": "Silent Bear Adventure",
   "version": "1.0",
   "author": "StoneSBA",
   "description": "Усложнённая версия сба. Удачи!",
-  "settings": [
-    { "id": "greet", "type": "bool", "name": "Приветствие в лог", "default": true }
-  ]
+  "libs": ["libs/arm64-v8a/libsilentbear.so"]
 }
