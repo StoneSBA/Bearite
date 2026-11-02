@@ -1,3 +1,4 @@
+#include <stdbool.h>
 #include "bearite_api.h"
 #include "bearite_il2cpp.h"
 
